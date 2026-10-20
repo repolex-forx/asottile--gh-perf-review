@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/gh-perf-review/commit/57c067bddd257966945cb613d064675d9db94d32",
       "git:hexsha": "57c067bddd257966945cb613d064675d9db94d32",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:16:43.871950+00:00"
     }
   ]
 }
